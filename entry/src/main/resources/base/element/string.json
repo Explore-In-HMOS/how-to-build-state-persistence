@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "A codelab demonstrating HarmonyOS state management and persistence on wearable"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "State Persistence Codelab main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "State Persist"
+    },
+    {
+      "name": "counter_title",
+      "value": "PersistenceV2 Demo"
+    },
+    {
+      "name": "counter_persists",
+      "value": "Value persists across app restarts"
+    },
+    {
+      "name": "appstorage_title",
+      "value": "AppStorage Demo"
+    },
+    {
+      "name": "watch_title",
+      "value": "@Watch Demo"
+    },
+    {
+      "name": "env_title",
+      "value": "Environment Demo"
+    },
+    {
+      "name": "dark_mode_label",
+      "value": "Dark Mode"
+    },
+    {
+      "name": "metric_label",
+      "value": "Metric"
+    },
+    {
+      "name": "imperial_label",
+      "value": "Imperial"
+    },
+    {
+      "name": "time_24h_label",
+      "value": "24h"
+    },
+    {
+      "name": "time_12h_label",
+      "value": "12h"
+    },
+    {
+      "name": "unit_system_label",
+      "value": "Unit System"
+    },
+    {
+      "name": "time_format_label",
+      "value": "Time Format"
+    },
+    {
+      "name": "system_language_label",
+      "value": "System Language"
+    },
+    {
+      "name": "system_color_mode_label",
+      "value": "System Color Mode"
+    },
+    {
+      "name": "increment_btn",
+      "value": "+1"
+    },
+    {
+      "name": "decrement_btn",
+      "value": "-1"
+    },
+    {
+      "name": "reset_btn",
+      "value": "Reset"
+    },
+    {
+      "name": "changed_label",
+      "value": "No changes yet"
+    }
+  ]
+}

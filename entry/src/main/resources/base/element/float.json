@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "page_title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "page_heading_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "page_body_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "page_caption_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "timer_font_size",
+      "value": "28fp"
+    }
+  ]
+}
